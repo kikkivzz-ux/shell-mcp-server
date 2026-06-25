@@ -1,5 +1,3 @@
-# shell-mcp-server
-A simple shell MCP server for AI agents
 # Shell MCP Server
 
 A minimal MCP (Model Context Protocol) server that gives your AI agent access to a real shell. One file, zero config.
